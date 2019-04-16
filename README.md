@@ -4,6 +4,7 @@ This repository contains files relevant to the manuscript: Slade E. & Naylor MG.
 
 data_generation.R
  - Simulate data according to Scenarios 1 and 2
+ - Start here and simulate data before moving on to Scenario_1.R or Scenario_2.R
  
 Scenario_1.R
  - Corresponds to Scenario 1, data with an interaction
