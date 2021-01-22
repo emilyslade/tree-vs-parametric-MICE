@@ -1,4 +1,4 @@
-# This script corresponds to Scenario 1 in Slade & Naylor (in review), for data with an interaction term.
+# This script corresponds to Scenario 1 in Slade & Naylor (2020), for data with an interaction term.
 # Must first generate data (see data_generation.R). This script loads data, imputes missing values using MICE
 # with the PMM-Naive, PMM-Int, CART, and RF methods. Next, the final analysis model is fit and results from
 # the each imputed dataset are combined. Finally, bias, coverage, and 95% confidence interval width are 
