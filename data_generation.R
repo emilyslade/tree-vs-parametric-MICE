@@ -1,7 +1,7 @@
 # This R script generates data according to Scenarios 1 and 2 as described in
-# Slade & Naylor (in review). Scenario 1 represents a setting with a true underlying
+# Slade & Naylor (2020). Scenario 1 represents a setting with a true underlying
 # interaction, and Scenario 2 represents a setting with no underlying interaction.
-# Please refer to Slade & Naylor (in review) for a more detailed description.
+# Please refer to Slade & Naylor (2020) for a more detailed description.
 
 # This code generates two data files for each scenario. The first, named
 # scen#.data.miss, contains the simulated data for each variable after missingness
